@@ -1,0 +1,7 @@
+textures
+models
+Models/soda_machine.smd
+WorldObjects
+WallObject 0 0.768001 -5.49594 0 0 0 1 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+WallObject 0 0 0 0 0 0 1 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 0 1 1 
+0 -1 0 2.10301 0 0 0 0 0.0110923 0.0110923 0.0110923 1 1
