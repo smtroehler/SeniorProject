@@ -1,0 +1,5 @@
+textures
+models
+WorldObjects
+WallObject 0 0 0 0 0 0 1 1 1 -1 1 1 -1 1 1 -1 1 1 -1 1 1 -1 1 1 -1 1 1 
+WallObject 0 0 -4.98297 0 0 0 1 1 1 -1 1 1 -1 1 1 -1 1 1 -1 1 1 -1 1 1 -1 1 1 

@@ -1,0 +1,3 @@
+﻿  Camera.cpp
+c:\users\sean troehler\dropbox\classes\seniorproj\src\seniorproject\seniorproject\camera.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SeniorProject.vcxproj -> C:\Users\Sean Troehler\Dropbox\Classes\SeniorProj\src\SeniorProject\x64\Debug\SeniorProject.exe

@@ -1,0 +1,29 @@
+textures
+Materials/DiffuseTextures/grain_elevator_facade_09.tga
+Materials/DiffuseTextures/concrete_macro001.tga
+Materials/DiffuseTextures/train_small_diesel_neutral.tga
+Materials/DiffuseTextures/concretefloor002.tga
+Materials/DiffuseTextures/concretefloor002b.tga
+Materials/DiffuseTextures/concretefloor007.tga
+Materials/DiffuseTextures/concretewall002_red.tga
+Materials/DiffuseTextures/concretewall002b.tga
+Materials/DiffuseTextures/concretewall003e.tga
+Materials/DiffuseTextures/concretewall004c.tga
+Materials/DiffuseTextures/metalgrate011a.tga
+Materials/DiffuseTextures/wall011b.tga
+Materials/DiffuseTextures/wall011d.tga
+Materials/DiffuseTextures/wall014d.tga
+Materials/DiffuseTextures/wall019b.tga
+Materials/DiffuseTextures/wall027.tga
+Materials/DiffuseTextures/wood_wall007.tga
+Materials/DiffuseTextures/brickwall001.tga
+Materials/DiffuseTextures/brickwall002c.tga
+Materials/DiffuseTextures/concretewall001b.tga
+Materials/DiffuseTextures/concretewall001e.tga
+Materials/DiffuseTextures/concretewall003.tga
+Materials/DiffuseTextures/grain_elevator_silo_04.tga
+models
+Models/Cube.smd
+WorldObjects
+WallObject -4.50688 3.36999 6.88176 0 0 0 7.18958 3.86464 3.19075 0 2 2 0 2 2 0 2 2 0 2 2 0 2 2 0 2 2 
+WallObject -4.50688 -0.917022 6.88176 0 0 0 61.116 0.37925 23.7136 0 2 2 0 2 2 0 2 2 0 2 2 0 2 2 0 2 2 

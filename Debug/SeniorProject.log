@@ -1,0 +1,93 @@
+﻿  stdafx.cpp
+  tiny_obj_loader.cc
+c:\users\sean troehler\dropbox\classes\seniorproj\src\tiny_obj_loader.cc(336): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\tiny_obj_loader.cc(625): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\tiny_obj_loader.cc(646): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\tiny_obj_loader.cc(706): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  ShapeObj.cpp
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(27): error C3646: 'getAttribute': unknown override specifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(27): error C2059: syntax error: '('
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(28): error C3646: 'getUniform': unknown override specifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(28): error C2059: syntax error: '('
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(35): error C3646: 'pid': unknown override specifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(36): error C2065: 'GLint': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(36): error C2923: 'std::map': 'GLint' is not a valid template type argument for parameter '_Ty'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(37): error C2065: 'GLint': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(37): error C2923: 'std::map': 'GLint' is not a valid template type argument for parameter '_Ty'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\shapeobj.cpp(3): fatal error C1083: Cannot open include file: 'GLSL.h': No such file or directory
+  Program.cpp
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(27): error C3646: 'getAttribute': unknown override specifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(27): error C2059: syntax error: '('
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(27): error C2238: unexpected token(s) preceding ';'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(28): error C3646: 'getUniform': unknown override specifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(28): error C2059: syntax error: '('
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(28): error C2238: unexpected token(s) preceding ';'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(35): error C3646: 'pid': unknown override specifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(36): error C2065: 'GLint': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(36): error C2923: 'std::map': 'GLint' is not a valid template type argument for parameter '_Ty'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(37): error C2065: 'GLint': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.h(37): error C2923: 'std::map': 'GLint' is not a valid template type argument for parameter '_Ty'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\program.cpp(4): fatal error C1083: Cannot open include file: 'GLSL.h': No such file or directory
+  MatrixStack.cpp
+  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\gl\gl.h(78): note: see previous definition of 'APIENTRY'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\main.cpp(11): fatal error C1083: Cannot open include file: 'GLSL.h': No such file or directory
+  Camera.cpp
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(9): error C2065: 'M_PI': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2782: 'glm::detail::tvec2<T,P> glm::detail::operator <<(const glm::detail::tvec2<T,P> &,const T &)': template parameter 'T' is ambiguous
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec2.hpp(288): note: see declaration of 'glm::detail::operator <<'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): note: could be 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): note: or       'float'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec2<T,P> glm::detail::operator <<(const glm::detail::tvec2<T,P> &,const T &)': could not deduce template argument for 'const T &' from 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec2.hpp(288): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec2<T,P> glm::detail::operator <<(const T &,const glm::detail::tvec2<T,P> &)': could not deduce template argument for 'const glm::detail::tvec2<T,P> &' from 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec2.hpp(291): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec2<T,P> glm::detail::operator <<(const glm::detail::tvec2<T,P> &,const glm::detail::tvec2<T,P> &)': could not deduce template argument for 'const glm::detail::tvec2<T,P> &' from 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec2.hpp(294): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec3<T,P> glm::detail::operator <<(const glm::detail::tvec3<T,P> &,const T &)': could not deduce template argument for 'const glm::detail::tvec3<T,P> &' from 'glm::vec2'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec3.hpp(306): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec3<T,P> glm::detail::operator <<(const T &,const glm::detail::tvec3<T,P> &)': could not deduce template argument for 'const glm::detail::tvec3<T,P> &' from 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec3.hpp(309): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec3<T,P> glm::detail::operator <<(const glm::detail::tvec3<T,P> &,const glm::detail::tvec3<T,P> &)': could not deduce template argument for 'const glm::detail::tvec3<T,P> &' from 'glm::vec2'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec3.hpp(312): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec4<T,P> glm::detail::operator <<(const glm::detail::tvec4<T,P> &,const T &)': could not deduce template argument for 'const glm::detail::tvec4<T,P> &' from 'glm::vec2'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec4.hpp(349): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec4<T,P> glm::detail::operator <<(const T &,const glm::detail::tvec4<T,P> &)': could not deduce template argument for 'const glm::detail::tvec4<T,P> &' from 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec4.hpp(352): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec4<T,P> glm::detail::operator <<(const glm::detail::tvec4<T,P> &,const glm::detail::tvec4<T,P> &)': could not deduce template argument for 'const glm::detail::tvec4<T,P> &' from 'glm::vec2'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec4.hpp(355): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec1<T,P> glm::detail::operator <<(const glm::detail::tvec1<T,P> &,const T &)': could not deduce template argument for 'const glm::detail::tvec1<T,P> &' from 'glm::vec2'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec1.hpp(250): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec1<T,P> glm::detail::operator <<(const T &,const glm::detail::tvec1<T,P> &)': could not deduce template argument for 'const glm::detail::tvec1<T,P> &' from 'int'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec1.hpp(253): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2784: 'glm::detail::tvec1<T,P> glm::detail::operator <<(const glm::detail::tvec1<T,P> &,const glm::detail::tvec1<T,P> &)': could not deduce template argument for 'const glm::detail::tvec1<T,P> &' from 'glm::vec2'
+  c:\users\sean troehler\dropbox\classes\seniorproj\src\glm\detail\type_vec1.hpp(256): note: see declaration of 'glm::detail::operator <<'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(27): error C2676: binary '<<': 'glm::vec2' does not define this operator or a conversion to a type acceptable to the predefined operator
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(39): error C2065: 'vec2': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(39): error C2146: syntax error: missing ';' before identifier 'mouseCurr'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(39): error C3861: 'mouseCurr': identifier not found
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(40): error C2065: 'vec2': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(40): error C2146: syntax error: missing ';' before identifier 'dv'
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(40): error C2065: 'dv': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(40): error C2065: 'mouseCurr': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(43): error C2065: 'dv': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(46): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(46): error C3861: 'dv': identifier not found
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(47): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(47): error C3861: 'dv': identifier not found
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(50): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(50): error C3861: 'dv': identifier not found
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(53): error C2065: 'mouseCurr': undeclared identifier
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(40): error C2045: 'glm': label redefined
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(64): error C2064: term does not evaluate to a function taking 1 arguments
+c:\users\sean troehler\dropbox\classes\seniorproj\src\camera.cpp(65): error C2064: term does not evaluate to a function taking 1 arguments
+  Generating Code...
